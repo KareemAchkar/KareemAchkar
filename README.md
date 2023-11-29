@@ -12,9 +12,6 @@ I'm Kareem from Turkey, I am a Frontend Developer, I really enjoy learning new l
 
 🌱 Currently exploring the testing with Vitest and Jest
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KareemAchkar)](https://github.com/anuraghazra/github-readme-stats)
-
-
 Skills: REACT / JS / HTML / CSS / TypeScript / Redux / Context
 
 
