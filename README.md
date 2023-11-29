@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kareem
 #### Design and Development
-![Design and Development](https://www.wetech-alliance.com/wp-content/uploads/2019/08/code-design-to-win-plain-banner-1.png)
+
 
 I'm Kareem from Turkey, I am a Frontend Developer, I really enjoy learning new languages and Frameworks Like React , Redux and NodeJs. I enjoy wireFraming with UI UX
 
@@ -11,6 +11,8 @@ I'm Kareem from Turkey, I am a Frontend Developer, I really enjoy learning new l
 🎨 I’m a master of crafting HTML and CSS code.
 
 🌱 Currently exploring the testing with Vitest and Jest
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KareemAchkar)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Skills: REACT / JS / HTML / CSS / TypeScript / Redux / Context
